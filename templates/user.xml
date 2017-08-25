@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="activity" value="&lt;div id=&quot;v1&quot; data-savemod=&quot;true&quot; data-passingscore=&quot;0&quot;&gt;&#10;    &lt;div class=&quot;directions&quot;&gt;&#10;        &lt;p&gt;&lt;strong&gt;Directions:&lt;/strong&gt; Read the following questions or statements and choose the correct answer choice below each one. Click SUBMIT when you have answered them all. You will then receive a percentile score and immediate feedback on which answers are incorrect. &lt;/p&gt;&#10;    &lt;/div&gt;&#10;    &lt;ol class=&quot;questionList&quot;&gt;&#10;        &#10;    &lt;/ol&gt;&#10;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="question" value="&lt;li&gt;Question&#10;    &lt;ol class=&quot;answerList&quot;&gt;&#10;        &lt;li&gt;Answer&lt;/li&gt;&#10;        &lt;li&gt;Answer&lt;/li&gt;&#10;        &lt;li&gt;Answer&lt;/li&gt;&#10;        &lt;li&gt;Answer&lt;/li&gt;&#10;    &lt;/ol&gt;&#10;&lt;/li&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
